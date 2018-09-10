@@ -3,3 +3,8 @@
   height: 100px;
   width: 100px;
 }
+
+.title{
+  font-weight: bold;
+  color: red;
+}
